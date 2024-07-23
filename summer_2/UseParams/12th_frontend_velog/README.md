@@ -11,3 +11,5 @@ function app () {
 }
 
 -- 리드미 수정 후 noting to commit 문제 발생
+
+-- 캐시 삭제 후 다시 add/commit/push 로 해결
