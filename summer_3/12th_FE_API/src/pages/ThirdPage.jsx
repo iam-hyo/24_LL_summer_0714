@@ -13,7 +13,7 @@ const NextStep = styled.div`
 `;
 
 const ThirdPage = () => {
-  // const { NEWS_APP_API_KEY } = import.meta.env;
+  const { VITE_NEWS_API_KEY } = import.meta.env;
 
   return (
     <>
